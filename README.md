@@ -54,17 +54,6 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/shulerlittleton" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/ShulerLittleton" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=x&logo=twitter&label=&color=14171A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img height="300" src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/03/michael-scott-the-office-memes.jpg"  />
 </div>
