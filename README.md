@@ -61,9 +61,6 @@
   <a href="https://x.com/ShulerLittleton" target="_blank">
     <img src="https://img.shields.io/static/v1?message=x&logo=twitter&label=&color=14171A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="shulerlittleton70@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
